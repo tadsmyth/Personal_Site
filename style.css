@@ -1,0 +1,125 @@
+body {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin: 50px auto 0px auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.top {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 50px;
+}
+
+#profile_pic {
+  border-radius: 50%;
+  height: auto;
+  width: auto;
+  margin-top: 30px;
+}
+
+.divide-dots {
+  color: #696969;
+  font-weight: bolder;
+  font-size: 400%;
+  line-height: 2;
+}
+
+.skillOneIcon {
+  height: 25%;
+  margin-right: 30px;
+  width: 25%;
+  float: left;
+}
+
+.skillTwoIcon {
+  height: 25%;
+  margin-left: 30px;
+  width: 25%;
+  float: right;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.btn {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillIcons {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.contact-me-btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Montserrat;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 30px;
+   margin-top: 30px;
+}
+
+.footer-link {
+  line-height: 2;
+  padding: 30px;
+  color: #11999e;
+  font-family: Montserrat;
+}
+
+.copy-right {
+  color: #FFFFFF;
+}
